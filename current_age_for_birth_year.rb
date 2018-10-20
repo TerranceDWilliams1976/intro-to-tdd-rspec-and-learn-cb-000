@@ -3,4 +3,4 @@ def current_age_for_birth_year(birth_year)
 end
 
 year = current_age_for_birth_year(1976)
-put "year"
+puts "year"
